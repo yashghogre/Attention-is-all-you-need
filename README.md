@@ -11,5 +11,4 @@ batch size = 64\
 head size = 4\
 Total Blocks in Encoder = 4\
 Total Blocks in Decoder = 4\
-
-![image](https://github.com/user-attachments/assets/056fc6d3-8539-4da4-9100-56bfa8b843c7)
+![image](https://github.com/user-attachments/assets/2a9d45eb-e37e-48d9-9514-cb72d366ed0d)
